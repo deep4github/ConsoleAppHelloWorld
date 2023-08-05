@@ -1,0 +1,15 @@
+C:\Users\pakumar\Desktop\ConsoleApp_HelloWorld\ConsoleApp_HelloWorld\bin\Debug\net6.0\ConsoleApp_HelloWorld.exe
+C:\Users\pakumar\Desktop\ConsoleApp_HelloWorld\ConsoleApp_HelloWorld\bin\Debug\net6.0\ConsoleApp_HelloWorld.deps.json
+C:\Users\pakumar\Desktop\ConsoleApp_HelloWorld\ConsoleApp_HelloWorld\bin\Debug\net6.0\ConsoleApp_HelloWorld.runtimeconfig.json
+C:\Users\pakumar\Desktop\ConsoleApp_HelloWorld\ConsoleApp_HelloWorld\bin\Debug\net6.0\ConsoleApp_HelloWorld.dll
+C:\Users\pakumar\Desktop\ConsoleApp_HelloWorld\ConsoleApp_HelloWorld\bin\Debug\net6.0\ConsoleApp_HelloWorld.pdb
+C:\Users\pakumar\Desktop\ConsoleApp_HelloWorld\ConsoleApp_HelloWorld\obj\Debug\net6.0\ConsoleApp_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\pakumar\Desktop\ConsoleApp_HelloWorld\ConsoleApp_HelloWorld\obj\Debug\net6.0\ConsoleApp_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pakumar\Desktop\ConsoleApp_HelloWorld\ConsoleApp_HelloWorld\obj\Debug\net6.0\ConsoleApp_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\pakumar\Desktop\ConsoleApp_HelloWorld\ConsoleApp_HelloWorld\obj\Debug\net6.0\ConsoleApp_HelloWorld.AssemblyInfo.cs
+C:\Users\pakumar\Desktop\ConsoleApp_HelloWorld\ConsoleApp_HelloWorld\obj\Debug\net6.0\ConsoleApp_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\pakumar\Desktop\ConsoleApp_HelloWorld\ConsoleApp_HelloWorld\obj\Debug\net6.0\ConsoleApp_HelloWorld.dll
+C:\Users\pakumar\Desktop\ConsoleApp_HelloWorld\ConsoleApp_HelloWorld\obj\Debug\net6.0\refint\ConsoleApp_HelloWorld.dll
+C:\Users\pakumar\Desktop\ConsoleApp_HelloWorld\ConsoleApp_HelloWorld\obj\Debug\net6.0\ConsoleApp_HelloWorld.pdb
+C:\Users\pakumar\Desktop\ConsoleApp_HelloWorld\ConsoleApp_HelloWorld\obj\Debug\net6.0\ConsoleApp_HelloWorld.genruntimeconfig.cache
+C:\Users\pakumar\Desktop\ConsoleApp_HelloWorld\ConsoleApp_HelloWorld\obj\Debug\net6.0\ref\ConsoleApp_HelloWorld.dll
