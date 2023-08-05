@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pakumar\\Desktop\\ConsoleApp_HelloWorld\\ConsoleApp_HelloWorld\\ConsoleApp_HelloWorld.csproj",
+      "projectUniqueName": "C:\\ConsoleApp_HelloWorld\\ConsoleApp_HelloWorld\\ConsoleApp_HelloWorld.csproj",
       "projectName": "ConsoleApp_HelloWorld",
-      "projectPath": "C:\\Users\\pakumar\\Desktop\\ConsoleApp_HelloWorld\\ConsoleApp_HelloWorld\\ConsoleApp_HelloWorld.csproj",
+      "projectPath": "C:\\ConsoleApp_HelloWorld\\ConsoleApp_HelloWorld\\ConsoleApp_HelloWorld.csproj",
       "packagesPath": "C:\\Users\\pakumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pakumar\\Desktop\\ConsoleApp_HelloWorld\\ConsoleApp_HelloWorld\\obj\\",
+      "outputPath": "C:\\ConsoleApp_HelloWorld\\ConsoleApp_HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pakumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
